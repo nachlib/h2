@@ -1,0 +1,15 @@
+id: '974'
+name: 'Miri Liberman '
+locales:
+  - he
+themeHue: 190
+domain: null
+internalDomain: miri-liberman.admin.datocms.com
+noIndex: false
+globalSeo: null
+favicon: null
+faviconMetaTags:
+  - tagName: meta
+    attributes:
+      name: application-name
+      content: 'Miri Liberman '
